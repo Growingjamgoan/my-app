@@ -9,7 +9,7 @@ public class Calculator {
 	 * @return int
 	 */
 	public int add(int i, int j){
-		String name = null;
+		String name = "hello";
 		name.toUpperCase();
 		return i+j;
 	}
