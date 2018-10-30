@@ -10,8 +10,8 @@ public class Calculator {
 	 */
 	public String add(){
 		String name = "hello";
-		name.toUpperCase();
-		return name;
+		return name.toUpperCase();
+		
 	}
 	public int multiply(int i, int j){
 		return i*j;
